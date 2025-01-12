@@ -9,6 +9,7 @@
   }
   body{
     margin: 0 160px;
+    background-color: #F1F1F3;
   }
   .banner{
     display: flex;
@@ -135,7 +136,9 @@
 
 
 .news-items{
+  background-color: #FFFFFF;
   display: flex;
+  border-radius: 24px;
   margin-bottom: 24px;
 }
 .satelite-img{
