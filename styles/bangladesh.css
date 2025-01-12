@@ -172,3 +172,68 @@
   margin-right: 32px;
   margin-bottom: 56px;
 }
+/* Donate For Bangladesh Style */
+.donar{
+  background-color: rgba(14, 14, 14, 0.05);
+  margin-bottom: 80px;
+}
+.donar > h3{
+  text-align: center;
+}
+.donar > p{
+  text-align: center;
+  margin-top: 24px;
+  margin-bottom: 32px;
+  margin-left: 88px;
+  margin-right:88px;
+}
+.donet-amount{
+  display: inline;
+  justify-content: center;
+}
+.donet-amount{
+  margin-left: 104.5px;
+  margin-right: 100.5px;
+  
+}
+.donet-btn{
+  width: 240px;
+  height: 128px;
+  border: none;
+  border-radius: 16px;
+  margin-right: 24px;
+}
+.donet-btn > p{
+  font-size: 40px;
+  font-weight: bold;
+}
+.take-donet-btn > p{
+  font-size: 40px;
+  font-weight: bold;
+  
+}
+.take-donet-btn{
+  width: 240px;
+  height: 128px;
+  border: none;
+  background-color: #C6E4D6;
+  border-radius: 16px;
+  margin-right: 24px;
+}
+.input-text{
+  margin-top: 32px;
+  margin-right: 124px;
+  margin-left: 124px;
+  width: 1032px;
+  height: 64px;
+  border: none;
+  background-color: none;
+  text-align: center;
+}
+.donar-btn{
+  width: 151px;
+  height: 56px;
+  margin-top: 32px;
+  margin-left: 564px;
+  
+}
